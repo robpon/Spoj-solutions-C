@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  Start
-//
-//  Created by Robert Ponikiewski on 06/09/2023.
-//
+
 
 #include <iostream>
 #include <math.h>
